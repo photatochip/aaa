@@ -1,0 +1,6 @@
+{
+  "name": "주간업무계획 취합 도구",
+  "description": "공공기관 및 부서 업무망에서 인터넷 없이 사용하는 주간업무계획 자동 취합 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Malgun Gothic', '맑은 고딕', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom styles for clean administrative UI */
+input, textarea, select, button {
+  font-family: inherit;
+}
